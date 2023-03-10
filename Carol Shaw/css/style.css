@@ -1,0 +1,129 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #000;
+    background-color: rgb(255, 255, 255);
+    background-image: url(../img/fundo-de-papel-de-espaco-de-design-texturizado.jpg);
+}
+
+header {
+    height: 50px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10rem;
+    margin-top: 10px;
+}
+
+.cor {
+    background-color: #1487ca;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.cor1 {
+    background-color: #1487ca;
+    border-radius: 20px;
+
+}
+
+.cor2 {
+    background-color: #1487ca;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.cor3 {
+    background-color: #1487ca;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.cor4 {
+    background-color: #1487ca;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+.carol {
+    border-radius: 50%;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.carol1 {
+    border-radius: 20px;
+}
+
+img {
+    border-radius: 20px;
+}
+
+.direitos {
+    border-radius: 10px;
+    height: 20px;
+}
+
+.barra {
+    border-radius: 10px;
+    padding-bottom: 10px;
+    background-color: #1487ca;
+    opacity: 70%;
+    width: 150px;
+    text-align: center;
+}
+
+a:hover {
+    transition: 0.4s;
+    background-color: rgb(250, 171, 0);
+    border-radius: 5px;
+}
+
+h1 {
+    color: rgb(250, 171, 0);
+}
+
+p {
+    color: #fff;
+}
+
+.wiki {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 450px;
+    margin-right: 450px;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.FW {
+    margin-left: 120px;
+}
+
+.gameplay {
+    background-color: #1487ca;
+    border-radius: 20px;
+}
+
+.fjogo{
+    background-color: #1487ca;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 40px;
+}
